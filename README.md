@@ -22,7 +22,7 @@ I’m a 2nd year generalist engineering student at ESME Paris, deeply passionate
 Although my experience in Web3 is still growing, my dedication, quick learning, and strong work ethic enable me to adapt rapidly and contribute effectively.
 
 🌟 What I can bring :
-I aim to contribute and expand my expertise across various areas of Web3. My interests include L2 tooling, dApps, and DeFi smart contracts, as well as broader roles that support the ecosystem’s growth. I am open to tackling both technical and strategic challenges, quickly adapting to new environments, and delivering real value to the team.
+I am open to tackling both technical and strategic challenges, quickly adapting to new environments, and delivering real value to the team. I aim to contribute and expand my expertise across various areas of Web3. My interests include L2 tooling, dApps, and DeFi smart contracts, as well as broader roles that support the ecosystem’s growth. 
 
 📅 Availability : From June 2025 <br>
 ⌛ Duration : 2 months <br>
