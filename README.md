@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi, I'm Marius!
 
-<!--
-**Mariussgal/Mariussgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Mariussgal)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Mariussgal"><img src="https://img.shields.io/github/followers/Mariussgal?label=Follow%20me&style=social"></a>
+  <a href="mailto:marius.gal05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&color=red"></a>
+  <a href="https://www.linkedin.com/in/marius-gal/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Mariussgal?tab=repositories"><img src="https://img.shields.io/badge/My-Projects-yellow?style=flat&logo=github"></a>
+  <a href="https://marius-gal.xyz"><img src="https://img.shields.io/badge/My-portfolio-blue"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
+
+<h3> Seeking a 2-Month Internship in Web3 (June 2025) </h3>
+
+If you're part of a company in the Web3 ecosystem looking for a passionate intern eager to contribute, I’d love the opportunity to join your team! Feel free to check out my portfolio.
+
+🎓Who am I ?
+I’m a 2nd year generalist engineering student at ESME Paris, deeply passionate about blockchain, Ethereum, and DeFi since summer 2023. Curious, adaptable, and hardworking, I’m keen to gain hands-on experience in a dynamic professional environment.
+
+Although my experience in Web3 is still growing, my dedication, quick learning, and strong work ethic enable me to adapt rapidly and contribute effectively.
+
+🌟 What I can bring :
+I aim to contribute and expand my expertise across various areas of Web3. My interests include L2 tooling, dApps, and DeFi smart contracts, as well as broader roles that support the ecosystem’s growth. I am open to tackling both technical and strategic challenges, quickly adapting to new environments, and delivering real value to the team.
+
+📅 Availability : From June 2025 <br>
+⌛ Duration : 2 months <br>
+📍 Location: Open to both remote and on-site opportunities <br>
+
+If you have any questions or potential roles that align, feel free to reach out!
+
+
+
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
+</p>
+
+
+<h3>My GitHub contributions summary</h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariussgal&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
