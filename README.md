@@ -12,9 +12,9 @@
 
 </p>
 
-<h3> Seeking a 2-Month Internship in Web3 (June 2025) </h3>
+<h3> 🚀 Seeking a 2-Month Internship in Web3 (June 2025) </h3>
 
-If you're part of a company in the Web3 ecosystem looking for a passionate intern eager to contribute, I’d love the opportunity to join your team! Feel free to check out my portfolio.
+If you're part of a company in the Web3 ecosystem looking for a passionate intern eager to contribute, I’d love the opportunity to join your team! Feel free to check out my portfolio. 🔥
 
 🎓Who am I ?
 I’m a 2nd year generalist engineering student at ESME Paris, deeply passionate about blockchain, Ethereum, and DeFi since summer 2023. Curious, adaptable, and hardworking, I’m keen to gain hands-on experience in a dynamic professional environment.
