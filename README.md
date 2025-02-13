@@ -50,6 +50,3 @@ If you have any questions or potential roles that align, feel free to reach o
 </p>
 
 
-<h3>My GitHub contributions summary</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariussgal&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
