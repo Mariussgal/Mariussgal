@@ -49,4 +49,8 @@ If you have any questions or potential roles that align, feel free to reach o
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 </p>
 
+<h3>Github stats</h3>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariussgal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
