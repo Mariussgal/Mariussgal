@@ -23,7 +23,8 @@
 ---
 
 <h3 align ="center"> 🚀 Seeking a 2-Month Internship in Web3 (June 2025) </h3>
-<br>
+
+
 If you're part of a company in the Web3 ecosystem looking for a passionate intern eager to contribute, I’d love the opportunity to join your team! Feel free to check out my portfolio. 🔥
 
 🎓Who am I ?
