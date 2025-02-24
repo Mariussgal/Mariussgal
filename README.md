@@ -1,4 +1,11 @@
-## Hi, I'm Marius! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+
+<p align="center">
+
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Marius%2C;" alt="Typing SVG"/>
+
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=Mariussgal)
 
