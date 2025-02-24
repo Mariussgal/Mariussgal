@@ -11,9 +11,16 @@
   <a href="https://www.linkedin.com/in/marius-gal/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/Mariussgal?tab=repositories"><img src="https://img.shields.io/badge/My-Projects-yellow?style=flat&logo=github"></a>
   <a href="https://marius-gal.xyz"><img src="https://img.shields.io/badge/My-portfolio-blue"></a>
+</p>
 
+
+<p align "center>
+
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzMWl6cjgwcHVjYXhlaHZxem9oYXQwMjE5N2NhZzRiYXl0NGQ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEhn6EJlkdwudQMOQ/giphy.gif" width = "200"/>
 
 </p>
+
+---
 
 <h3> 🚀 Seeking a 2-Month Internship in Web3 (June 2025) </h3>
 
