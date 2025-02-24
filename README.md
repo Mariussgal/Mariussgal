@@ -5,8 +5,6 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Mariussgal)
-
 <p align="center">
   <a href="https://github.com/Mariussgal"><img src="https://img.shields.io/github/followers/Mariussgal?label=Follow%20me&style=social"></a>
   <a href="mailto:marius.gal05@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&color=red"></a>
@@ -59,3 +57,4 @@ If you have any questions or potential roles that align, feel free to reach o
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariussgal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=Mariussgal)
