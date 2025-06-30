@@ -22,27 +22,6 @@
 
 ---
 
-<h3 align ="center"> 🚀 Seeking a 2-Month Internship in Web3 (June 2025) </h3>
-
-
-If you're part of a company in the Web3 ecosystem looking for a passionate intern eager to contribute, I’d love the opportunity to join your team! Feel free to check out my portfolio. 🔥
-
-🎓Who am I ?
-I’m a 2nd year generalist engineering student at ESME Paris, deeply passionate about blockchain, Ethereum, and DeFi since summer 2023. Curious, adaptable, and hardworking, I’m keen to gain hands-on experience in a dynamic professional environment.
-
-Although my experience in Web3 is still growing, my dedication, quick learning, and strong work ethic enable me to adapt rapidly and contribute effectively.
-
-🌟 What I can bring :
-I am open to tackling both technical and strategic challenges, quickly adapting to new environments, and delivering real value to the team. I aim to contribute and expand my expertise across various areas of Web3. My interests include <strong>L2 tooling</strong>, <strong>dApps</strong>, and <strong>DeFi smart contracts</strong>, as well as broader roles that support the ecosystem’s growth. 
-
-📅 Availability : From June 2025 <br>
-⌛ Duration : 2 months <br>
-📍 Location: Open to both remote and on-site opportunities <br>
-
-If you have any questions or potential roles that align, feel free to reach out!
-
-
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
