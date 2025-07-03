@@ -40,9 +40,11 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
 </p>
 
-<h3>Github stats</h3>
+<h3 align="center">Github stats
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariussgal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=Mariussgal)
