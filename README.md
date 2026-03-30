@@ -39,6 +39,7 @@
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
 </p>
 
 <h3 align="center">Github stats
