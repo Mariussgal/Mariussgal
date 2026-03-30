@@ -40,6 +40,13 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
+  <img alt="eth" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+  <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
+  <img alt="GitBook" src="https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff"/>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
 </p>
 
 <h3 align="center">Github stats
