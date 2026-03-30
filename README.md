@@ -47,6 +47,7 @@
   <img alt="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
   <img alt="GitBook" src="https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff"/>
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
 </p>
 
 <h3 align="center">Github stats
