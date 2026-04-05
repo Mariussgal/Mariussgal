@@ -51,7 +51,7 @@
   <img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
 </p>
 
-<h3 align="center">Github stats
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariussgal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
